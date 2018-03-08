@@ -12,7 +12,9 @@
     "superagent": "^3.8.2",
     "utility": "^1.13.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha-phantomjs": "^4.1.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
